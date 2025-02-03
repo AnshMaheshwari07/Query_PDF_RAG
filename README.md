@@ -1,0 +1,1 @@
+A RAG Application where your chat and context history is maintained and response of your query is based upon the context which is retreived from vector databases using similarity search that is giving the best reponse as your query get attached with  the context extracted from pdf and then pass it to LLM for rich response.
